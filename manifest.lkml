@@ -1,5 +1,5 @@
 constant: CONNECTION_NAME {
-  value: "Default BigQuery Connection"
+  value: "default_bigquery_connection"
   export: override_required
 }
 
