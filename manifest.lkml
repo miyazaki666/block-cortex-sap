@@ -9,7 +9,7 @@ constant: GCP_PROJECT {
 }
 
 constant: REPORTING_DATASET {
-  value: "CORTEX_CM360_REPORTING"
+  value: "CORTEX_SAP_REPORTING"
   export: override_required
 }
 
